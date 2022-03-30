@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ARustamA
 - 👀 I’m interested in html,css,js
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 ARustamA/ARustamA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
