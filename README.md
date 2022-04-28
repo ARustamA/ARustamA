@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ARustamA
-- 👀 I’m interested in html,css,js
+- 👀 I’m interesting in html,css,js
 
 
 <!---
