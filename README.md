@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ## @ARustamA
+- 👋 Hi, I’m Rustam
 - 👀 I’m interesting in react js, react native, next and nest 
 - 👨‍💻 https://t.me/RustamAkhm - write here
 <!---
